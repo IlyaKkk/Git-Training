@@ -1,3 +1,1 @@
-#README
-and so on
-wow
+it is better not to edit files on GitHub
